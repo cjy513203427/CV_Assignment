@@ -27,7 +27,7 @@ Results
 ![image](https://user-images.githubusercontent.com/38099452/114176148-0fac4380-993b-11eb-8148-1ede842b57ae.png)  
 ![image](https://user-images.githubusercontent.com/38099452/114176168-15098e00-993b-11eb-897b-1e6cef6c7f62.png)  
 ### Problem 4
-**Edge Detection**
+**Edge Detection**  
 Results  
 Show filter results:  
 ![image](https://user-images.githubusercontent.com/38099452/114176825-f8ba2100-993b-11eb-8d95-864774523403.png)  
