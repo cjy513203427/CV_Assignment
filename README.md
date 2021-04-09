@@ -60,7 +60,7 @@ Interpolation:
 ![image](https://user-images.githubusercontent.com/38099452/114178977-b514e680-993e-11eb-8f2b-e23305045789.png)  
 ## Assignment 3
 ### Problem 1  
-**Hessian Matrix**
+**Hessian Matrix**  
 Results  
 Show components of Hessian matrix:  
 ![image](https://user-images.githubusercontent.com/38099452/114181187-7af91400-9941-11eb-9422-a80ca1145aac.png)  
@@ -71,7 +71,7 @@ Show all interest points where criterion is greater than threshold:
 Apply non-maximum suppression and show remaining interest points:  
 ![image](https://user-images.githubusercontent.com/38099452/114181344-aed43980-9941-11eb-8a0b-5710a8172d02.png)  
 ### Problem 2
-**RANSAC**
+**RANSAC**  
 Results  
 Find matching keypoints:  
 ![image](https://user-images.githubusercontent.com/38099452/114182092-8b5dbe80-9942-11eb-9178-cc0cbf2798ca.png)   
@@ -81,19 +81,19 @@ Recompute homography matrix based on inliers:
 ![image](https://user-images.githubusercontent.com/38099452/114182212-a8928d00-9942-11eb-9351-0506268ee6b9.png)  
 ## Assignment 4
 ### Problem 1  
-**Epipolar Geometry**
+**Epipolar Geometry**  
 Results  
 Find keypoints in the left and right image:  
 ![image](https://user-images.githubusercontent.com/38099452/114183287-cf9d8e80-9943-11eb-8514-f1c38cf159f9.png)  
 Find epipolar lines in the left and right image:  
 ![image](https://user-images.githubusercontent.com/38099452/114183362-e5ab4f00-9943-11eb-91fc-c3a114510d8f.png)  
 ### Problem 2
-**Optical Flow**
+**Optical Flow**  
 Results  
 ![image](https://user-images.githubusercontent.com/38099452/114184010-987bad00-9944-11eb-9475-2db1334feb0e.png)  
 ## Bonus Assignment
 ### Problem 1  
-**Neural Networks**
+**Neural Networks**  
 Results  
 ![image](https://user-images.githubusercontent.com/38099452/114184167-ceb92c80-9944-11eb-85a7-9433bb8bb43f.png)
 ![image](https://user-images.githubusercontent.com/38099452/114184205-d8db2b00-9944-11eb-8523-dd1d5b3889fb.png)
